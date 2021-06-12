@@ -12,4 +12,4 @@
 : Multiple classification of deep learning images using PyTorch
 
 ## Ensamble [20210430 ~ ] [[Link]](https://github.com/jihyeheo/Pytorch_Computer_Vision_cookbook/tree/main/Ensemble)
-: resnet, inception block
+: resnet, inception block, densenet
