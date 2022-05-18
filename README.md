@@ -20,4 +20,4 @@
 
 # Modern_Computer_Vision_with_Pytorch
 ### Chapter7 : Basic of Object Detection [20220503 ~]
-: Truck, Bus, Background classification + bounding box regression, R-CNN and Fast R-CNN
+: Truck, Bus, Background classification + bounding box regression, [R-CNN]() and [Fast R-CNN]()
