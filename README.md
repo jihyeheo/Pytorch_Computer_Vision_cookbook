@@ -23,6 +23,6 @@
 : Truck, Bus, Background classification + bounding box regression<br> 
 [R-CNN][[Link]](https://github.com/jihyeheo/Pytorch_Computer_Vision_cookbook/blob/main/Chapter7/Training%20R-CNN_presentation.pdf) and [Fast R-CNN][[Link]](https://github.com/jihyeheo/Pytorch_Computer_Vision_cookbook/blob/main/Chapter7/Training%20Fast%20R-CNN_presentation.pdf)
 
-### Chapter8 : Object Detection(가제, 제목 뭐더라) [20220610 ~ ]
+### Chapter8 : Object Detection(가제, 제목 뭐더라) [20220610 ~ 20220621]
 : Truck, Bus, Background classification + bounding box regression<br> 
 [Faster R-CNN][[Link]](https://github.com/jihyeheo/Pytorch_Computer_Vision_cookbook/blob/main/Chapter8/Training_Faster_RCNN.ipynb)
